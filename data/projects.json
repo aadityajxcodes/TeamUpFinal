@@ -1,0 +1,173 @@
+[
+  {
+    "id": 5,
+    "title": "LIVEHIRE",
+    "desc": "Web app for hiring freelance technical interviewer for companies",
+    "required_skills": [
+      "Mern"
+    ],
+    "timeline": "5 days",
+    "owner": 1,
+    "participants": [
+      1
+    ],
+    "join_requests": [
+      3
+    ],
+    "tasks": []
+  },
+  {
+    "id": 6,
+    "title": "Optiven",
+    "desc": "Inventory Management System building with fastAPI and React",
+    "required_skills": [
+      "React",
+      "FastAPI"
+    ],
+    "timeline": "1 month",
+    "owner": 2,
+    "participants": [
+      2,
+      3
+    ],
+    "join_requests": [],
+    "tasks": [
+      {
+        "id": 1,
+        "description": "make a user dashboard",
+        "assigned_to": 3,
+        "status": "To Do"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "DineEase",
+    "desc": "Web app for pre deciding the Menu at Restaurent",
+    "required_skills": [
+      "React",
+      "Node"
+    ],
+    "timeline": "5 Months",
+    "owner": 3,
+    "participants": [
+      3
+    ],
+    "join_requests": [],
+    "tasks": []
+  },
+  {
+    "id": 1,
+    "title": "Smart Home Automation",
+    "desc": "Develop an IoT based smart home automation system with React frontend and Django backend.",
+    "required_skills": [
+      "Python",
+      "Django",
+      "React",
+      "IoT"
+    ],
+    "timeline": "3 months",
+    "owner": 1,
+    "participants": [
+      1,
+      3,
+      2
+    ],
+    "join_requests": [
+      4
+    ],
+    "tasks": [
+      {
+        "id": 1,
+        "description": "Design system architecture",
+        "assigned_to": 1,
+        "status": "Done"
+      },
+      {
+        "id": 2,
+        "description": "Build API endpoints",
+        "assigned_to": 1,
+        "status": "In Progress"
+      },
+      {
+        "id": 3,
+        "description": "Create frontend UI",
+        "assigned_to": 3,
+        "status": "To Do"
+      },
+      {
+        "id": 4,
+        "description": "Setup MQTT communication",
+        "assigned_to": 2,
+        "status": "Done"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "AI Chatbot",
+    "desc": "Create an AI chatbot using Python with NLP capabilities to answer customer queries.",
+    "required_skills": [
+      "Python",
+      "NLP",
+      "Machine Learning"
+    ],
+    "timeline": "2 months",
+    "owner": 2,
+    "participants": [
+      2,
+      3
+    ],
+    "join_requests": [],
+    "tasks": [
+      {
+        "id": 1,
+        "description": "Collect training data",
+        "assigned_to": 2,
+        "status": "Done"
+      },
+      {
+        "id": 2,
+        "description": "Build NLP model",
+        "assigned_to": 4,
+        "status": "Done"
+      },
+      {
+        "id": 3,
+        "description": "Integrate with UI",
+        "assigned_to": 3,
+        "status": "To Do"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "E-Commerce Website",
+    "desc": "Build a scalable e-commerce platform with full-featured shopping cart and payment integration.",
+    "required_skills": [
+      "React",
+      "Node.js",
+      "MongoDB"
+    ],
+    "timeline": "4 months",
+    "owner": 1,
+    "participants": [
+      1
+    ],
+    "join_requests": [],
+    "tasks": [
+      {
+        "id": 1,
+        "description": "Set up database schemas",
+        "assigned_to": 1,
+        "status": "To Do"
+      },
+      {
+        "id": 2,
+        "description": "Implement payment gateway",
+        "assigned_to": 1,
+        "status": "To Do"
+      }
+    ]
+  }
+]
