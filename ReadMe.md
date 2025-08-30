@@ -1,4 +1,4 @@
-Here’s a streamlined README file for your TeamUp project with the screenshots and table of contents sections removed:
+
 
 ***
 
@@ -121,9 +121,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-Created by [Your Name]  
-Contact: [your.email@example.com]  
-GitHub: [yourusername](https://github.com/yourusername)
+Created by AADITYA JAISWAL 
+Contact:  aadityajaiswalofficial@gmail.com
+GitHub: https://github.com/aadityajxcodes
 
 For project-related questions, open an issue on this repository.
 
